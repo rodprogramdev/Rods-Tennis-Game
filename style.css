@@ -1,0 +1,29 @@
+html {
+	background-color: #c1946a;
+}
+
+#gameCanvas {
+	 padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+   
+
+}
+
+h2 {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+h4 {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+h5 {
+	text-align: center;
+}
